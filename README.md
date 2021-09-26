@@ -1,12 +1,5 @@
 # docker-practice          
 
-## questions          
-1. loosely isolated env
-2. everything needed to run the application
-3. docker가 client-server 구조이기 때문에 가능할 수 있는 것들
-   1. 다양한 형태의 클라이언트 (script, java, python ...)
-
-
 
 ## Docker Architecture    
    ![](2021-09-25-19-38-04.png)
